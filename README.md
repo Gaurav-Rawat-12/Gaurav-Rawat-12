@@ -84,11 +84,11 @@ My goal is to become an AI/ML Engineer, and I'm consistently working toward it.
 
 <div align="center">
 
-![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaurav-Rawat-12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Rawat-12&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Gaurav-Rawat-12&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -98,8 +98,8 @@ My goal is to become an AI/ML Engineer, and I'm consistently working toward it.
 
 I'm always open to discussing AI/ML ideas, project collaborations, or opportunities.
 
-- 📧 **Email:** [your@email.com](mailto:Gauravrawat6360@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/gaurav-rawat-206a34384?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bxgww5umKQty1AdpaebcNrg%3D%3D))
+- 📧 **Email:** [Email](mailto:Gauravrawat6360@gmail.com)
+- 💼 **LinkedIn:** [linkedin]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/gaurav-rawat-206a34384?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bxgww5umKQty1AdpaebcNrg%3D%3D))
 - 🌐 **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
 
 ---
