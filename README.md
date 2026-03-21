@@ -80,15 +80,15 @@ My goal is to become an AI/ML Engineer, and I'm consistently working toward it.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaurav-Rawat-12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Gaurav-Rawat-12&theme=tokyonight&hide_border=true)
+
+![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaurav-Rawat-12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Rawat-12&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Gaurav-Rawat-12&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -98,8 +98,8 @@ My goal is to become an AI/ML Engineer, and I'm consistently working toward it.
 
 I'm always open to discussing AI/ML ideas, project collaborations, or opportunities.
 
-- 📧 **Email:** [Email](mailto:Gauravrawat6360@gmail.com)
-- 💼 **LinkedIn:** [linkedin](https://www.linkedin.com/in/gaurav-rawat-206a34384/)
+- 📧 **Email:** [Gauravrawat6360@gmail.com](mailto:Gauravrawat6360@gmail.com)
+- 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/gaurav-rawat-206a34384/)
 - 🌐 **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
 
 ---
@@ -108,6 +108,6 @@ I'm always open to discussing AI/ML ideas, project collaborations, or opportunit
 
 *"The goal is to turn data into information, and information into insight."* — Carly Fiorina
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Gaurav-Rawat-12&color=blue&style=flat-square)
 
 </div>
